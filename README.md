@@ -16,8 +16,7 @@ Instalação :
          
 
  - Requisitos de instalação
-   
-               pip3 install requests
+ pip3 install requests
     
  - Como usar ?
    
