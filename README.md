@@ -18,7 +18,6 @@ Instalação :
  - Requisitos de instalação
  
          pip3 install requests
-         pip3 install json
     
  - Como usar ?
    
