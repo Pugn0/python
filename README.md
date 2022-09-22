@@ -7,7 +7,7 @@
 *Click <a href="https://www.youtube.com/c/Pugno_fc">aqui</a> e se inscreva <a href="https://www.youtube.com/c/Pugno_fc">PUGNO</a> .. ^_^*
 ----------
 <h2>Ferramentas</h2>
-*Login simples <a href="https://github.com/Pugn0/python/tree/main/login-inpower">check 01</a>
+1. Login simples <a href="https://github.com/Pugn0/python/tree/main/login-inpower">check</a>
 
 Instalação : 
 ------
