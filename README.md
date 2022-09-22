@@ -6,7 +6,8 @@
 ----------
 *Click <a href="https://www.youtube.com/c/Pugno_fc">aqui</a> e se inscreva <a href="https://www.youtube.com/c/Pugno_fc">PUGNO</a> .. ^_^*
 ----------
-<h2>Tool</h2>
+<h2>Ferramentas</h2>
+*L+ogin simples<a href="https://github.com/Pugn0/python/tree/main/login-inpower">check 01</a>
 
 Instalação : 
 ------
