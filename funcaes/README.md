@@ -6,3 +6,6 @@ Aqui você verá várias def() em python para diversas finalidades
 
  **Vídeo explicando sobre**
  [Clique aqui](#)
+
+Com esta fubção você poderá retorna uma string de uma pagina web, podendo armazena=la e usa-la para seus retornos, como por exemplo
+if e else para validar algo.
