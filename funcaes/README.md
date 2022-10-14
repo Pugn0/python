@@ -2,7 +2,7 @@
 Aqui você verá várias def() em python para diversas finalidades 
 
 ## getStr()
-- [⚡CC](https://github.com/Pugn0/python/blob/main/funcaes/getStr.py)
+- [Código](https://github.com/Pugn0/python/blob/main/funcaes/getStr.py)
 
-**Vídeo explicando sobre**
+ **Vídeo explicando sobre**
  [Clique aqui](#)
