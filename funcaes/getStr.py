@@ -5,7 +5,7 @@ def getStr(texto, inicio, fim):
 	try:
 		return texto.split(inicio)[1].split(fim)[0]
 	except Exception:
-		return "Erro nos argumentos"
+		return False
 
 
 filtro = getStr(texto, '', '"')
